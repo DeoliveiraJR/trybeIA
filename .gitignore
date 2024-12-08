@@ -1,1 +1,5 @@
-lesson_env
+lesson_env/
+.venv/
+Venv/
+venv/
+.env
