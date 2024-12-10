@@ -1,5 +1,4 @@
 lesson_env/
 .venv/
-Venv/
 venv/
 .env
